@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "slowBrowser", "slowBrowser\slowBrowser.csproj", "{806BC494-BFFD-4418-9641-4A372C1C4FB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{806BC494-BFFD-4418-9641-4A372C1C4FB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{806BC494-BFFD-4418-9641-4A372C1C4FB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{806BC494-BFFD-4418-9641-4A372C1C4FB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{806BC494-BFFD-4418-9641-4A372C1C4FB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A97E8EB0-F27F-4443-BC89-9EF695AB9914}
+	EndGlobalSection
+EndGlobal
